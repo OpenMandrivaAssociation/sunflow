@@ -26,7 +26,9 @@ BuildRequires:    java-gcj-compat-devel
 Requires:       janino
 
 %description
-Sunflow is an open source rendering system for photo-realistic image synthesis. It is written in Java and built around a flexible ray tracing core and an extensible object-oriented design.
+Sunflow is an open source rendering system for photo-realistic image synthesis.
+It is written in Java and built around a flexible ray tracing core and an
+extensible object-oriented design.
 
 %package        javadoc
 Summary:        Javadoc for %{name}
