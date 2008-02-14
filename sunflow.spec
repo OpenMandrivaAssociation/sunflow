@@ -9,6 +9,7 @@ Summary:        Sunflow is a rendering system for photo-realistic image synthesi
 License:        MIT
 URL:            http://sunflow.sourceforge.net
 Group:          Development/Java
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:        http://puzzle.dl.sourceforge.net/sourceforge/sunflow/%{name}-src-v%{version}.zip
 Source1:        sunflow.sh
 BuildRequires:  ant
