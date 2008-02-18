@@ -5,7 +5,7 @@ Name:           sunflow
 Version:        0.07.2
 Release:        %mkrel 0.0.1
 Epoch:          0
-Summary:        Sunflow is a rendering system for photo-realistic image synthesis
+Summary:        Rendering system for photo-realistic image synthesis
 License:        MIT
 URL:            http://sunflow.sourceforge.net
 Group:          Development/Java
