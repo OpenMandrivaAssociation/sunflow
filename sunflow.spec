@@ -3,7 +3,7 @@
 
 Name:           sunflow
 Version:        0.07.2
-Release:        %mkrel 0.0.1
+Release:        %mkrel 0.0.2
 Epoch:          0
 Summary:        Rendering system for photo-realistic image synthesis
 License:        MIT
