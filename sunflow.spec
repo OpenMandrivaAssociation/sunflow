@@ -105,3 +105,21 @@ rm -rf $RPM_BUILD_ROOT
 %dir %{_javadocdir}/%{name}-%{version}
 %{_javadocdir}/%{name}-%{version}/*
 %dir %{_javadocdir}/%{name}
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 0:0.07.2-0.0.2mdv2010.0
++ Revision: 434176
+- rebuild
+
+* Mon Feb 18 2008 Thierry Vignaud <tvignaud@mandriva.com> 0:0.07.2-0.0.1mdv2009.0
++ Revision: 170567
+- fix "foobar is blabla" summary (=> "blabla") so that it looks nice in rpmdrake
+- fix no-buildroot-tag
+- fix description-line-too-long
+
+* Fri Jan 25 2008 Alexander Kurtakov <akurtakov@mandriva.org> 0:0.07.2-0.0.1mdv2008.1
++ Revision: 158157
+- import sunflow
+
+
