@@ -7,7 +7,7 @@ Release:        0.0.3
 Epoch:          0
 Summary:        Rendering system for photo-realistic image synthesis
 License:        MIT
-URL:            http://sunflow.sourceforge.net
+URL:            https://sunflow.sourceforge.net
 Group:          Development/Java
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:        http://puzzle.dl.sourceforge.net/sourceforge/sunflow/%{name}-src-v%{version}.zip
